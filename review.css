@@ -1,0 +1,23 @@
+h4 {
+    text-align: center;
+    font-size: xx-large !important;
+    padding-top: 10%;
+    padding-bottom: 1%;
+}
+
+
+
+
+.container {
+    margin: 0 auto;
+    width: 960px;
+}
+
+.containerBox {
+    margin: 0 auto;
+    width: 100%;
+}
+
+.containerBox ul.flex {
+    justify-content: center;
+}

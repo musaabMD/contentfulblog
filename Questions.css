@@ -1,0 +1,32 @@
+html {
+    background-color: #F4F5F9 !important;
+}
+
+
+
+.container2 {
+    max-width: auto;
+}
+
+.container {
+    max-width: auto;
+
+}
+
+#QTXT {
+    margin-top: 100px;
+    margin-left: 40px;
+    margin-right: 400px;
+    text-align: left;
+
+
+}
+
+.choice {
+    border: 1px solid #ccc;
+    cursor: pointer;
+}
+
+.choice.clicked {
+    border-color: black;
+}

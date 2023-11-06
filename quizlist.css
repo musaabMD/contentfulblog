@@ -1,0 +1,9 @@
+/* Remove the checkbox */
+tr td:first-child input[type="checkbox"] {
+    display: none;
+}
+
+/* Remove the image in الملف */
+tr td:nth-child(2) img {
+    display: none;
+}
